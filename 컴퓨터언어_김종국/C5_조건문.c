@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*
 # 영상, 영하
 int main(void) {
 int temp = 0;
@@ -31,3 +31,4 @@ if (x%2==1)
 else
   printf("입력된 정수는 짝수입니다.");
 }
+*/
