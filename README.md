@@ -1,6 +1,10 @@
 # Today I Learned
 My Today I Learned snippets.
-## C - TBC
+## C
+- 
+## C++
+- 
+## python
 - 
 ## Others
 - 
