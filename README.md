@@ -1,7 +1,7 @@
 # Today I Learned
 My Today I Learned snippets.
 ## C
-* [filename](link) - 2025-02-16
+* [CPU_control_bus](C/CPU_control_bus.md) - 2025-02-13
 ## C++
 - 
 ## python
