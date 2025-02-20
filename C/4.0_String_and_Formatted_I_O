@@ -1,0 +1,21 @@
+### 📌 4.1 문자열 입출력하기
+- %c -> %s(string으로 변경)
+- 일반적인 char fruit_name이었으면, &fruit_name으로 주소를 가져왔겠지만,  
+	fruit_name[40]은 char type 40개 메모리 공간을 대표하는 주소가 되어버리기 때문에 &(ampersand) 삭제  
+	> C에서 배열의 이름(변수명) 자체가 배열의 첫 번째 요소의 주소를 의미
+``` c
+#include <stdio.h>
+
+int main()
+{
+	// 글자 하나만 담을 수 있어서 문자열을 담을 수 없어서 (truncation)
+	// char fruit_name[];
+	char fruit_name[40];  // 배열로 변경(char type의 40byte를 확보)
+
+	printf("What's your favorite fruit?\n");
+	scanf("%s", fruit_name); //ampersand -> 주소로 넣기. / %s : string
+	printf("oh, %s!\n", fruit_name);  //format(conversion) specifier
+
+	return 0;
+}
+```
