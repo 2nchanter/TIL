@@ -7,7 +7,7 @@ My Today I Learned snippets.
 - [4.0_String_and_Formatted_I_O](C/4.0_String_and_Formatted_I_O.md) - 2025-02-20
 - [5.0_Operator_Expression_Statement](C/5.0_Operator_Expression_Statement.md) - 2025-02-22
 - [6.0_Iteration](C/6.0_Iteration.md) - 2025-02-24
-- [7.0_Branching_statement](C/7.0_Branching_statement.md) - 2025-02-26
+- [7.0_Branching_statement](C/7.0_Branching_statement.md) - 2025-02-26, 27
 
 ## C++
 - 
