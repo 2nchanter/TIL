@@ -9,7 +9,8 @@ My Today I Learned snippets.
 - [6.0_Iteration](C/6.0_Iteration.md) - 2025-02-24
 - [7.0_Branching_statement](C/7.0_Branching_statement.md) - 2025-02-26, 27
 - [8.0_Character_IO_and_input_validation](C/8.0_Character_IO_and_input_validation.md) - 2025-03-04
-- [9.0_function](C/9.0_function.md) - 2025-03-06
+- [9.0_function](C/9.0_function.md) - 2025-03-09
+- [10.0_array_and_pointer](C/10.0_array_and_pointer.md) - 2025-03-
 
 ## C++
 - 
