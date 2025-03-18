@@ -11,7 +11,8 @@ My Today I Learned snippets.
 - [8.0_Character_IO_and_input_validation](C/8.0_Character_IO_and_input_validation.md) - 2025-03-04
 - [9.0_function](C/9.0_function.md) - 2025-03-09
 - [10.0_array_and_pointer](C/10.0_array_and_pointer.md) - 2025-03-12
-- [11.0_String_Functions](C/11.0_String_Functions.md) - 2025-03-13
+- [11.0_String_Functions](C/11.0_String_Functions.md) - 2025-03-19
+- [12.0_Storage_Classes,_Linkage_and_Memory_Management](C/12.0_Storage_Classes,_Linkage_and_Memory_Management.md) - 2025-03-
 
 ## C++
 - 
