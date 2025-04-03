@@ -14,7 +14,8 @@ My Today I Learned snippets.
 - [11.0_String_Functions](C/11.0_String_Functions.md) - 2025-03-19
 - [12.0_Storage_Classes,_Linkage_and_Memory_Management](C/12.0_Storage_Classes,_Linkage_and_Memory_Management.md) - 2025-03-23
 - [13.0_File_Input_Output](C/13.0_File_Input_Output.md) - 2025-03-25
-- [14.0_Structure](C/14.0_Structure.md) - 2025-03-
+- [14.0_Structure](C/14.0_Structure.md) - 2025-04-03
+- [15.0_bit](C/15.0_bit.md) - 2025-04-0
 
 ## C++
 - 
